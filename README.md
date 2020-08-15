@@ -4,6 +4,8 @@ Simple examples of data input validation in Node.js.
 ## example-1
 A simple example using command-line only.
 
+Step by step tutorial at https://www.luiztools.com.br/post/tutorial-de-validacao-de-input-de-dados-em-node-js/
+
 cd example-1
 npm install
 node index
